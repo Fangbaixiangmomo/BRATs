@@ -1,6 +1,6 @@
 # BRAT: Boulevard Regularized Additive Regression Trees
 
-This repository contains the code, experiments, and documentation for the paper [Statistical Inference for Gradient Boosting Regression](https://openreview.net/attachment?id=gLU0UV85Kv&name=pdf) submitted to the 2025 NeurIPS conference. All experiments are GPU optional. Simulations are done on python 3.9.6.
+This repository contains the code, experiments, and documentation for the paper [Statistical Inference for Gradient Boosting Regression](https://www.arxiv.org/abs/2509.23127) accepted by the 2025 NeurIPS conference. All experiments are GPU optional. Simulations are done on python 3.9.6.
 
 ## Initialization
 
